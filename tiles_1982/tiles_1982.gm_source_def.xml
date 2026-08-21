@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<source_list
+ version="1.0"
+ creator="Global Mapper - http://www.globalmapper.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.globalmapper.com/OSL/1/0"
+ xsi:schemaLocation="http://www.globalmapper.com/OSL/1/0 http://www.globalmapper.com/OSL/1/0/gmc.xsd">
+
+<source type="OSM">
+  <name>My Map Set Name</name>
+  <FileExt>png</FileExt>
+  <LatLonBounds>49.0924072266,14.5197800463,49.1473388672,14.5676343326</LatLonBounds>
+  <NumZoomLevels>19</NumZoomLevels>
+  <TileSize>256</TileSize>
+  <BaseURL>file:///E:/yemen_tiles_folders/tiles/tiles_1982/</BaseURL>
+  <NativeProj>EPSG:3857</NativeProj>
+</source>
+</source_list>
