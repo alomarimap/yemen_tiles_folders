@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<source_list
+ version="1.0"
+ creator="Global Mapper - http://www.globalmapper.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.globalmapper.com/OSL/1/0"
+ xsi:schemaLocation="http://www.globalmapper.com/OSL/1/0 http://www.globalmapper.com/OSL/1/0/gmc.xsd">
+
+<source type="OSM">
+  <name>My Map Set Name</name>
+  <FileExt>jpg</FileExt>
+  <LatLonBounds>45.5493164062,13.9660540813,45.5877685547,14.0140261006</LatLonBounds>
+  <NumZoomLevels>20</NumZoomLevels>
+  <TileSize>256</TileSize>
+  <BaseURL><![CDATA[file:///E:/%C7%E1%DA%E3%D1%ED%20%E3%C7%C8/yemen_map/AlBayda_1973/]]></BaseURL>
+  <NativeProj>EPSG:3857</NativeProj>
+</source>
+</source_list>

@@ -12,13 +12,13 @@
     <script>
       function init() {
         map = new OpenLayers.Map("basicMap");
-        var newLayer = new OpenLayers.Layer.OSM("New Layer", "file:///E:/yemen_tiles_folders/tiles/tiles_1983/${z}/${x}/${y}.png", {numZoomLevels: 19});
+        var newLayer = new OpenLayers.Layer.OSM("New Layer", "file:///E:/yemen_tiles_folders/tiles/tiles_1983/${z}/${x}/${y}.png", {numZoomLevels: 20});
 		map.addLayer(newLayer);
-		map.setCenter(new OpenLayers.LonLat(44.82971191406197420,14.39211402624116154) // Center of the map
+		map.setCenter(new OpenLayers.LonLat(44.17602539062447420,13.97404972688941349) // Center of the map
           .transform(
             new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
             new OpenLayers.Projection("EPSG:900913") // to Spherical Mercator Projection
-          ), 15 // Zoom level
+          ), 16 // Zoom level
         );
       }
     </script>
